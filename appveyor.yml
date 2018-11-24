@@ -1,0 +1,7 @@
+version: 1.0.{build}
+before_build:
+- ps: nuget restore CodeShare.TLS1.2.Umbraco/CodeShare.TLS1.2.Umbraco.sln
+build:
+  project: CodeShare.TLS1.2.Umbraco/CodeShare.TLS1.2.Umbraco.csproj
+  publish_nuget: true
+  verbosity: minimal
