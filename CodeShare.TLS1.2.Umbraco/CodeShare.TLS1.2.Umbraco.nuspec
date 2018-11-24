@@ -11,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>
-      - added HSTS check for sites running Umbraco older than v7.11
+      - This sets the security protocol of your Umbraco website to TLS1.2
     </releaseNotes>
     <copyright>$copyright$</copyright>
     <tags>CodeShare.TLS1.2.Umbraco Umbraco TLS 1.2 TLS1.2 TLS12 lib library codeshare</tags>
