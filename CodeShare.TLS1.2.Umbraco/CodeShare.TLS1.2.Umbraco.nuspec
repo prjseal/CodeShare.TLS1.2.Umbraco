@@ -11,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>
-      - This sets the security protocol of your Umbraco website to TLS1.2
+      - Adds TLS 1.2 flag to existing value
     </releaseNotes>
     <copyright>$copyright$</copyright>
     <tags>CodeShare.TLS1.2.Umbraco Umbraco TLS 1.2 TLS1.2 TLS12 lib library codeshare</tags>
